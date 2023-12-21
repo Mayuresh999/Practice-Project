@@ -1,1 +1,1 @@
-# code for dummt project
+# code for dummy project
